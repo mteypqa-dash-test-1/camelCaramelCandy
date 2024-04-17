@@ -1,0 +1,13 @@
+#clickableButton {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#clickableButton:hover {
+    background-color: #45a049;
+}
